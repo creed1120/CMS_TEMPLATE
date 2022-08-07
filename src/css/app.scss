@@ -1,0 +1,11 @@
+// src/app.scss
+@import "~bootstrap/scss/bootstrap";
+
+$primary: orange;
+
+body {
+    background: $primary;
+    h1 {
+        color: red;
+    }
+}
