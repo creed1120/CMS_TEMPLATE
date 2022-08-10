@@ -16,7 +16,7 @@
 
         /**
          * 
-         * Returns ALL users from database)
+         * Returns ALL users from database
          * 
          * @return object mysqli result
          */

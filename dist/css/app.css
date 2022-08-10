@@ -10903,9 +10903,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  background: orange;
-}
-body h1, body .h1 {
-  color: red;
-}

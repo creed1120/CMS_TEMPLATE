@@ -57,6 +57,8 @@
 
             </form> -->
 
+            <h1 class="text-color-purplish">This should be purplish text</h1>
+            <button type="button" class="btn btn-purplish text-white">Primary</button>
         </div>
 
         <!-- Blog Sidebar Widgets Column -->

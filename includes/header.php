@@ -23,6 +23,8 @@ error_reporting(0);
     <link href="css/blog-home.css" rel="stylesheet">
     <link href="../dist/css/app.css" rel="stylesheet">
 
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

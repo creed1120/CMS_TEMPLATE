@@ -1,11 +1,6 @@
+// $primary: purple;
+// $secondary: rgb(246, 80, 14);
+// $dark: #7d5c5c;
+
 // src/app.scss
 @import "~bootstrap/scss/bootstrap";
-
-$primary: orange;
-
-body {
-    background: $primary;
-    h1 {
-        color: red;
-    }
-}
